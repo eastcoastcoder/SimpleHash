@@ -12,4 +12,10 @@ This is a very simple hash function meant more for play than actual production w
   * Reference: BitVector [https://engineering.purdue.edu/kak/dist/BitVector-3.3.2.html]()
 
 
+The script itself is located under WpfApp1/Assets/Hash.py
+
+For using the gui, you will need a copy of IronPython installed at C:\Program Files\IronPython 2.7 to get access to StdLib calls
+
+http://ironpython.net/download/
+
 ![Screenshot](/Capture.PNG)
